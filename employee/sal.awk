@@ -6,7 +6,7 @@
 BEGIN{
 FS="|"
 print"EMPLOYEE DETAILS\n------------------"
-printf"\nSINO\tEId\tEname\t\t\tDesign\t\tBsal\tDA\tHRA\tGsal"
+print"\nSINO\tEId\tEname\t\t\tDesign\t\tBsal\tDA\tHRA\tGsal"
 }
 
 {
